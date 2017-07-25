@@ -58,8 +58,8 @@ Path to the product images ==> productImagePath: PropTypes.string.isRequired
 
 ## Docker Support
 
-### Create Image
+#### Create Image
 ### `docker build -t syedbrand2fe:1.0 .`
 
-### Create Container
+##### Create Container
 ### `docker run -p 4001:5000 --name syedbrand2fe syedbrand2fe:1.0`
