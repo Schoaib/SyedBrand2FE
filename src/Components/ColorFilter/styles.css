@@ -1,0 +1,23 @@
+.Clear-filters {
+  padding: 0;
+  margin-bottom: 5px;
+  ;
+  font-size: 11px;
+  line-height: 14px;
+  text-transform: none;
+  color: #97ab9f;
+  background-color: #fff;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: top;
+  text-decoration: none!important;
+  font: 400 12px/20px "Helvetica Neue", Arial, sans-serif;
+  float: right;
+  cursor:pointer;
+}
+
+.Center {
+  text-align: center;
+}

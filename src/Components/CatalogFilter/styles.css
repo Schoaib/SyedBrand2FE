@@ -1,0 +1,20 @@
+.Container-Filter {
+  border: 1px solid #d6d6d6;
+  padding: 20px;
+  margin-left: 20px;
+  text-align: left;
+}
+
+.Container-Filter h4 {
+  font: 400 16px/1.2 'Ropa Sans', sans-serif;
+  margin: 0 0 10px 0;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.Container-Filter h5 {
+  font: 400 14px/1.2 'Ropa Sans', sans-serif;
+  margin: 0 0 10px 0;
+  color: #000;
+  text-transform: uppercase;
+}
