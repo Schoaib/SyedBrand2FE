@@ -1,7 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # Common Components
-/src/Components
+#/src/Components
 
 # dependencies
 /node_modules
